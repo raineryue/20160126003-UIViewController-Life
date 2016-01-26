@@ -15,6 +15,7 @@
 		D50E14061C5747070008EF51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D50E14041C5747070008EF51 /* LaunchScreen.storyboard */; };
 		D50E14111C5747070008EF51 /* _0160126003_UIViewController_LifeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D50E14101C5747070008EF51 /* _0160126003_UIViewController_LifeTests.m */; };
 		D50E141C1C5747080008EF51 /* _0160126003_UIViewController_LifeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D50E141B1C5747080008EF51 /* _0160126003_UIViewController_LifeUITests.m */; };
+		D50E142B1C574BE90008EF51 /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D50E142A1C574BE90008EF51 /* OneViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		D50E14171C5747080008EF51 /* 20160126003-UIViewController-LifeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "20160126003-UIViewController-LifeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D50E141B1C5747080008EF51 /* _0160126003_UIViewController_LifeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = _0160126003_UIViewController_LifeUITests.m; sourceTree = "<group>"; };
 		D50E141D1C5747080008EF51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D50E14291C574BE90008EF51 /* OneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneViewController.h; sourceTree = "<group>"; };
+		D50E142A1C574BE90008EF51 /* OneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +109,8 @@
 				D50E13FC1C5747070008EF51 /* ViewController.h */,
 				D50E13FD1C5747070008EF51 /* ViewController.m */,
 				D50E13FF1C5747070008EF51 /* Main.storyboard */,
+				D50E14291C574BE90008EF51 /* OneViewController.h */,
+				D50E142A1C574BE90008EF51 /* OneViewController.m */,
 				D50E14021C5747070008EF51 /* Assets.xcassets */,
 				D50E14041C5747070008EF51 /* LaunchScreen.storyboard */,
 				D50E14071C5747070008EF51 /* Info.plist */,
@@ -273,6 +278,7 @@
 				D50E13FE1C5747070008EF51 /* ViewController.m in Sources */,
 				D50E13FB1C5747070008EF51 /* AppDelegate.m in Sources */,
 				D50E13F81C5747070008EF51 /* main.m in Sources */,
+				D50E142B1C574BE90008EF51 /* OneViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
